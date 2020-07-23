@@ -40,5 +40,7 @@ figcaption {
 }
 
 #details > p {
-  background-color: light;
+  background-color: lightgrey;
+  text-align: center;
+  width: 25%;
 }
