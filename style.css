@@ -38,3 +38,7 @@ figcaption {
 #details > div {
   float:left;
 }
+
+#details > p {
+  background-color: light;
+}
