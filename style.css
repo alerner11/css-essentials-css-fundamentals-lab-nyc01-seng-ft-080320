@@ -9,5 +9,7 @@ header {
 }
 
 img {
-  
+  display: block;
+  left: auto;
+  right: auto;
 }
