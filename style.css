@@ -39,7 +39,7 @@ figcaption {
   float:left;
 }
 
-#details > p {
+#details > div > p {
   background-color: lightgrey;
   text-align: center;
   width: 25%;
